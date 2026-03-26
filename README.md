@@ -1,5 +1,5 @@
 # Gender Income Gap by Academic Field
-*Final Paper for Political Science Course - March 2025*
+*Final Paper for POLI_SCI 312 at Northwestern University - March 2025*
 
 ## Overview
 This project explores the relationship between **gender composition in academic departments** and **post-graduation income outcomes**. While women earn less than men on average, this analysis investigates whether fields with higher proportions of female students are systematically associated with lower income levels, independent of individual skill or educational effort. The study uses regression models to evaluate how structural educational factors may contribute to long-term economic disparities.
